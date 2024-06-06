@@ -9,5 +9,6 @@
 <body>
     <h1>QuadB Tech Internship Assignment: React ToDo App with LocalStorage</h1>
     <p>This React ToDo web application was developed as part of an internship assignment for QuadB Tech. The task involved creating a functional ToDo app using HTML, CSS, and JavaScript. The app allows users to add, edit, and delete tasks, with LocalStorage integration ensuring data persistence across sessions. This project demonstrates proficiency in HTML, CSS, and JavaScript, showcasing the ability to build interactive web applications for task management purposes.</p>
+    <a href = 'https://golden-biscochitos-4ca0c9.netlify.app/ '> Live Preview</a>
 </body>
 </html>
